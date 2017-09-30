@@ -15,7 +15,7 @@
       * Para escribir la última frase he tenido que escribir la barra \ delante de _ para que lo interpretara como un caracter. 
       Es decir así: **\*\*\_mejor fuera los * y dentro la \_\_\*\***
 
-__EDITADO: LOS SIGNOS * Y _ SIRVEN INDISTINTAMENTE PARA NEGRITA O CURSIVA, SI PONEMOS DOS SALDRÁ NEGRITA Y SI PONEMOS UNO CURSIVA__
+EDITADO: LOS SIGNOS * Y _ SIRVEN INDISTINTAMENTE PARA NEGRITA O CURSIVA, SI PONEMOS DOS SALDRÁ NEGRITA Y SI PONEMOS UNO CURSIVA
 
 Ahora intento poner [aqui] (https://rawgit.com/) un enlace a rawgit (que por cierto no se exactamente **QUÉ ES!!**)
 Vale, funciona pero no exactamente como yo quería, quiero que el enlace esté sobre la palabra aquí, bueno ya lo miraré.
@@ -23,7 +23,7 @@ Vale, funciona pero no exactamente como yo quería, quiero que el enlace esté s
 Y ahora intento poner un enlace a rawgit, pero a la página que me crea al leer el documento html que tengo en GitHub
 que me abre a través de rawgit (https://rawgit.com/MariaAdrover/Repositorio1/master/ejemploHTML.html)
 
-Creo que ya se como poner el enlace [AQUÍ](https://rawgit.com/). Esto son **inline links**.
+Creo que ya se como poner el enlace [AQUÍ](https://libro.cursohtml5desdecero.com/) de un tutorial que tiene muy buena pinta, muy claro y bien elaborado, y parece que de verdad es desde cero. Esto son **inline links**.
   * Pues sí que funciona, resulta que **NO PUEDES DEJAR ESPACIO ENTRE EL PARÉNTESIS Y EL CORCHETE!!!**, 20 veces prueba y error
   * Y veo que para poner lo de las **unordered sublists** tampoco puedes dejar espacios después del asterisco
   
