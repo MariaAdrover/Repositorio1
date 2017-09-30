@@ -12,3 +12,7 @@
       surt en vermell, m'imagin que perquè no es poden posar ja més subllistes...)
       
 Ahora intento poner [aqui] (https://rawgit.com/) un enlace a rawgit (que por cierto no se exactamente **QUÉ ES!!**)
+Vale, funciona pero no exactamente como yo quería, quiero que el enlace esté sobre la palabra aquí, bueno ya lo miraré.
+
+Y ahora intento poner un enlace a rawgit, pero a la página que me crea al leer el documento html que tengo en GitHub
+que me abre a través de rawgit ( 
