@@ -10,3 +10,5 @@
     Ha de ser aquest nombre d'espais perquè si no me canvia el símbol)
       * I ara estic fent proves, editant el README i intentant que em surti algo amb el *Markdown*. (A l'edició això me
       surt en vermell, m'imagin que perquè no es poden posar ja més subllistes...)
+      
+Ahora intento poner [aqui] (https://rawgit.com/) un enlace a rawgit (que por cierto no se exactamente **QUÉ ES!!**)
