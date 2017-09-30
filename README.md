@@ -1,6 +1,6 @@
 # Repositorio1
 ### Repositori per fer proves
-    -------------------------
+   
 
 1. El primer que he fet ha estat obrir el compte a GitHub i he creat un repositori. (Aquí comença una **_ordered list_**)
 2. I després... (ahora crearé una **_unordered sublist_** posant 2 espais i *)
@@ -31,6 +31,8 @@ _"... y algunos de los lenguajes de programación que veremos son: [**html**][c�
 
 [código]: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=779:diferencias-entre-javascript-y-java-html-css-php-frontera-entre-lenguajes-en-desarrollos-web-cu01105e&catid=78&Itemid=206
 [tutorial]: https://www.aprenderaprogramar.es/index.php?option=com_content&view=article&id=57&Itemid=86
+
+:rocket: :metal:
 
 
   
