@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<title>HTML Tutorial
+  <style type="text/css">
+  body {
+Â Â Â  background-color: lightblue;
+  }
+  h1 {
+Â Â Â  color: white;
+Â Â Â  text-align: center;
+  }
+  p {
+Â Â Â  font-family: verdana;
+Â Â Â  font-size: 20px;
+  } 
+  </style>
+</title>
 <body>
 
 <h1>This is a heading</h1>
@@ -10,14 +24,3 @@
 </html>
 
 
-body {
-    background-color: lightblue;
-}
-h1 {
-    color: white;
-    text-align: center;
-}
-p {
-    font-family: verdana;
-    font-size: 20px;
-} 
