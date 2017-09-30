@@ -21,11 +21,11 @@ Vale, funciona pero no exactamente como yo quería, quiero que el enlace esté s
 Y ahora intento poner un enlace a rawgit, pero a la página que me crea al leer el documento html que tengo en GitHub
 que me abre a través de rawgit (https://rawgit.com/MariaAdrover/Repositorio1/master/ejemploHTML.html)
 
-Creo que ya se como poner el enlace [AQUÍ](https://rawgit.com/)
+Creo que ya se como poner el enlace [AQUÍ](https://rawgit.com/). Esto son **inline links**.
   * Pues sí que funciona, resulta que **NO PUEDES DEJAR ESPACIO ENTRE EL PARÉNTESIS Y EL CORCHETE!!!**, 20 veces prueba y error
   * Y veo que para poner lo de las **unordered sublists** tampoco puedes dejar espacios después del asterisco
   
-Ahora pondré unos **reference links** para utilizar el mismo link en varias palabras. Pongo la palabra entre [] y al lado tambien entre [] el nombre de la referencia que le doy al enlace. A final del documento hay que poner entre [] el nombre de la referencia seguido de **:** (_colon_ en inglés) y el link. Pondré un fragmento de un supuesto artículo sobre lenguajes de programación y tutoriales. Los lenguajes estaran enlazados a una página con un ejemplo de código de todos y los tutoriales a una página de tutoriales.
+Ahora pondré unos **reference links** para utilizar el mismo link en varias palabras. Pongo la palabra entre [ ] y al lado tambien entre [ ] el nombre de la referencia que le doy al enlace. A final del documento hay que poner entre [ ] el nombre de la referencia seguido de **:** (_colon_ en inglés) y el link. Pondré un fragmento de un supuesto artículo sobre lenguajes de programación y tutoriales. Los lenguajes estaran enlazados a una página con un ejemplo de código de todos y los tutoriales a una página de tutoriales.
 
 _"... y algunos de los lenguajes de programación que veremos son: [**html**][código] ([**tutorial de html**][tutorial]) (...) por supuesto es preferible [**CSS**][código] ([**tutorial de CSS**][tutorial]) (...) que también hace referencia a [**JavaScript**][código] ([**tutorial de JavaScript**][tutorial])."_ 
 
