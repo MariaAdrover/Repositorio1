@@ -25,9 +25,12 @@ Creo que ya se como poner el enlace [AQUÍ](https://rawgit.com/)
   * Pues sí que funciona, resulta que **NO PUEDES DEJAR ESPACIO ENTRE EL PARÉNTESIS Y EL CORCHETE!!!**, 20 veces prueba y error
   * Y veo que para poner lo de las **unordered sublists** tampoco puedes dejar espacios después del asterisco
   
-Ahora pondré unos **reference links** para utilizar el mismo link en varias palabras. Pongo la palabra entre [] y al lado tambien entre [] el nombre de la referencia que le doy al enlace. A final del documento hay que poner entre [] el nombre de la referencia seguido de **:** (_colon_ en inglés) y el link. Pondré un listado de algunos lenguajes de programación y tutoriales. Los lenguajes estaran enlazados a wikipedia para encontrar la definición y los tutoriales a una página de tutoriales.
+Ahora pondré unos **reference links** para utilizar el mismo link en varias palabras. Pongo la palabra entre [] y al lado tambien entre [] el nombre de la referencia que le doy al enlace. A final del documento hay que poner entre [] el nombre de la referencia seguido de **:** (_colon_ en inglés) y el link. Pondré un fragmento de un supuesto artículo sobre lenguajes de programación y tutoriales. Los lenguajes estaran enlazados a una página con un ejemplo de código de todos y los tutoriales a una página de tutoriales.
 
-_"... y algunos de los lenguajes de programación que veremos son:         
+_"... y algunos de los lenguajes de programación que veremos son: [**html**][código] ([**tutorial de html**][tutorial]) (...) por supuesto es preferible [**CSS**][código] ([**tutorial de CSS**][tutorial]) (...) que también hace referencia a [**JavaScript**][código] ([**tutorial de JavaScript**][tutorial])."_ 
+
+[código]: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=779:diferencias-entre-javascript-y-java-html-css-php-frontera-entre-lenguajes-en-desarrollos-web-cu01105e&catid=78&Itemid=206
+[tutorial]: https://www.aprenderaprogramar.es/index.php?option=com_content&view=article&id=57&Itemid=86
 
 
   
