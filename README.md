@@ -14,7 +14,9 @@
       Se pueden combinar: **_mejor fuera los * y dentro la \__**
       * Para escribir la última frase he tenido que escribir la barra \ delante de _ para que lo interpretara como un caracter. 
       Es decir así: **\*\*\_mejor fuera los * y dentro la \_\_\*\***
-      
+
+__EDITADO: LOS SIGNOS * Y _ SIRVEN INDISTINTAMENTE PARA NEGRITA O CURSIVA, SI PONEMOS DOS SALDRÁ NEGRITA Y SI PONEMOS UNO CURSIVA__
+
 Ahora intento poner [aqui] (https://rawgit.com/) un enlace a rawgit (que por cierto no se exactamente **QUÉ ES!!**)
 Vale, funciona pero no exactamente como yo quería, quiero que el enlace esté sobre la palabra aquí, bueno ya lo miraré.
 
