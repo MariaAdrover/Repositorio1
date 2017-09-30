@@ -25,3 +25,9 @@ Creo que ya se como poner el enlace [AQUÍ](https://rawgit.com/)
   * Pues sí que funciona, resulta que **NO PUEDES DEJAR ESPACIO ENTRE EL PARÉNTESIS Y EL CORCHETE!!!**, 20 veces prueba y error
   * Y veo que para poner lo de las **unordered sublists** tampoco puedes dejar espacios después del asterisco
   
+Ahora pondré unos **reference links** para utilizar el mismo link en varias palabras. Pongo la palabra entre [] y al lado tambien entre [] el nombre de la referencia que le doy al enlace. A final del documento hay que poner entre [] el nombre de la referencia seguido de **:** (_colon_ en inglés) y el link. Pondré un listado de algunos lenguajes de programación y tutoriales. Los lenguajes estaran enlazados a wikipedia para encontrar la definición y los tutoriales a una página de tutoriales.
+
+_"... y algunos de los lenguajes de programación que veremos son:         
+
+
+  
