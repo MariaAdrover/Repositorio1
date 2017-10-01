@@ -41,6 +41,10 @@ Dejo los enlaces enmedio del documento, a ver si funciona o efectivamente ha de 
 Estoy en la master branch. Acabo de modificar el documento y lo he guardado pero creando una new branch. No me lo ha guardado directamente sino que ha tcrado una **pull request**. HHa aparecido la solicitud en la página principal. H añadido un comentario, no sé si como administradora o como usuaria, y luego he intentado aprobar la pull request pero no me ha dejado xk dice que no puedo aprobar una pull request creada por mi... Obviamente, en esta copis no salen los cambios que habia hecho :confused: :laughing:
 Ahora grabo esto como siempre, en el master branch con el botón **commit changes**
 
+Ahora voy a poner una imagen. Ígual que con los links hay dos sistemas:
+
+![inline image link with ALT text](http://www.shipshapeit.com/Libraries/Shipshape_Images/Server_And_App_Hosting_Diagram.sflb.ashx)
+
 :rocket: :metal:
 
 
