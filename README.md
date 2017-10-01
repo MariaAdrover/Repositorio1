@@ -45,6 +45,9 @@ Ahora voy a poner una imagen. Ígual que con los links hay dos sistemas:
 
 ![inline image link with ALT text](http://www.shipshapeit.com/Libraries/Shipshape_Images/Server_And_App_Hosting_Diagram.sflb.ashx)
 
+[reference image][referencia]
+[referencia]:http://www.shipshapeit.com/Libraries/Shipshape_Images/Server_And_App_Hosting_Diagram.sflb.ashx
+
 :rocket: :metal:
 
 
