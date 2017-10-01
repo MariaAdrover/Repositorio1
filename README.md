@@ -178,8 +178,9 @@ Sistemes informàtics | Programació | Llenguatge de marques
 No sé si sólo sirve en GitHub o es un standar Markdown.   
 Ejemplo: **\<del>lo que queremos tachar\</del>**  
 Y quedará así:  
-<del>lo que queremos tachar</del>
-
+<del>lo que queremos tachar</del>  
+También se puede hacer así: **\~lo que queremos tachar\~**  
+~lo que queremos tachar~
   
 
 Y PARA ACABAR, LOS **EMOJIS**  
