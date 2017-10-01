@@ -17,19 +17,19 @@
 
 EDITADO: LOS SIGNOS * Y _ SIRVEN INDISTINTAMENTE PARA NEGRITA O CURSIVA, SI PONEMOS DOS SALDRÁ NEGRITA Y SI PONEMOS UNO CURSIVA
 
-Ahora intento poner [aqui] (https://rawgit.com/) un enlace a rawgit (que por cierto no se exactamente **QUÉ ES!!**)
+>Ahora intento poner [aqui] (https://rawgit.com/) un enlace a rawgit (que por cierto no se exactamente **QUÉ ES!!**)
 Vale, funciona pero no exactamente como yo quería, quiero que el enlace esté sobre la palabra aquí, bueno ya lo miraré.
-
-Y ahora intento poner un enlace a rawgit, pero a la página que me crea al leer el documento html que tengo en GitHub
+>
+>Y ahora intento poner un enlace a rawgit, pero a la página que me crea al leer el documento html que tengo en GitHub
 que se abre a través de rawgit (https://rawgit.com/MariaAdrover/Repositorio1/master/ejemploHTML.html)
-
-Creo que ya se como poner el enlace [AQUÍ](https://libro.cursohtml5desdecero.com/) de un tutorial que tiene muy buena pinta, muy claro y bien elaborado, y parece que de verdad es desde cero. Esto son **inline links**.
+>
+>Creo que ya se como poner el enlace [AQUÍ](https://libro.cursohtml5desdecero.com/) de un tutorial que tiene muy buena pinta, muy claro y bien elaborado, y parece que de verdad es desde cero. Esto son **inline links**.
   * Pues sí que funciona, resulta que **NO PUEDES DEJAR ESPACIO ENTRE EL PARÉNTESIS Y EL CORCHETE!!!**, 20 veces prueba y error
   * Y veo que para poner lo de las **unordered sublists** tampoco puedes dejar espacios después del asterisco
-  
-Ahora pondré unos **reference links** para utilizar el mismo link en varias palabras. Pongo la palabra entre [ ] y al lado tambien entre [ ] el nombre de la referencia que le doy al enlace. A final del documento hay que poner entre [ ] el nombre de la referencia seguido de **:** (_colon_ en inglés) y el link. Pondré un fragmento de un supuesto artículo sobre lenguajes de programación y tutoriales. Los lenguajes estaran enlazados a una página con un ejemplo de código de todos y los tutoriales a una página de tutoriales.
-
-_"... y algunos de los lenguajes de programación que veremos son: [**html**][código] ([**tutorial de html**][tutorial]) (...) por supuesto es preferible [**CSS**][código] ([**tutorial de CSS**][tutorial]) (...) que también hace referencia a [**JavaScript**][código] ([**tutorial de JavaScript**][tutorial])."_ 
+>  
+>Ahora pondré unos **reference links** para utilizar el mismo link en varias palabras. Pongo la palabra entre [ ] y al lado tambien entre [ ] el nombre de la referencia que le doy al enlace. A final del documento hay que poner entre [ ] el nombre de la referencia seguido de **:** (_colon_ en inglés) y el link. Pondré un fragmento de un supuesto artículo sobre lenguajes de programación y tutoriales. Los lenguajes estaran enlazados a una página con un ejemplo de código de todos y los tutoriales a una página de tutoriales.
+>
+>_"... y algunos de los lenguajes de programación que veremos son: [**html**][código] ([**tutorial de html**][tutorial]) (...) por supuesto es preferible [**CSS**][código] ([**tutorial de CSS**][tutorial]) (...) que también hace referencia a [**JavaScript**][código] ([**tutorial de JavaScript**][tutorial])."_ 
 
 [código]: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=779:diferencias-entre-javascript-y-java-html-css-php-frontera-entre-lenguajes-en-desarrollos-web-cu01105e&catid=78&Itemid=206
 [tutorial]: https://www.aprenderaprogramar.es/index.php?option=com_content&view=article&id=57&Itemid=86
@@ -51,7 +51,7 @@ El prpimer sistema es _inline image link_. Pones el signo **!** y entre corchete
 El segundo sistema es por referencia, _reference image_, igual que con los links.
 [reference image][referencia]
 dkdcwcwjokcmd le añado este texto y tampoco va, me añade una imagen otra vez. Ahora sí funciona. Hay que poner el texto que saldrá
-en el documento resaltado en azul, que enlaza a la imagen igual que con los links, o sea entre corchetes. No hay que poner el signo de exclamacion. Después también entre corchetes, el tag de referencia. LUEGO HAY QUE PONER MÁS TEXTO, PORQUE SI NO, NO VA BIEN, y luego ya,
+en el documento resaltado en azul, que enlaza a la imagen igual que con los links, o sea entre corchetes. No hay que poner el signo de exclamacion. Después también entre corchetes, el tag de referencia. **LUEGO HAY QUE PONER MÁS TEXTO, PORQUE SI NO, NO VA BIEN**, y luego ya,
 entre corchetes la etiqueta de la referencia, los dos puntos: y el enlace a la imagen.
 
 [referencia]: http://www.shipshapeit.com/Libraries/Shipshape_Images/Server_And_App_Hosting_Diagram.sflb.ashx
@@ -64,6 +64,8 @@ BLOCKQUOTES
 párrafo que queremos resaltar. Hasta aquí es un párrafo.
 
 Esto ya es otro párrafo sin resaltar.
+
+Se puede incluir en el blockquote todos los párrafos que se quiera; basta con poner el signo > al principio de cada párrafo y en todos los espacios intermedios. Voy a meter en un blockquote los párrafos que tratan cómo incluir un enlace en un texto.
 
 
 :rocket: :metal:
