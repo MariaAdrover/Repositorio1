@@ -176,7 +176,7 @@ Y quedará así:
 Y PARA ACABAR, LOS **EMOJIS**  
 Hay que poner **:** luego el nombre del emoji \(los encontraremos [aquí](https://www.webpagefx.com/tools/emoji-cheat-sheet/)\) y otra vez **:**.
 
-:rocket: :metal: :smile:
+:rocket: :metal: :blush:
 
 
   
