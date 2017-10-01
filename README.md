@@ -15,6 +15,7 @@
       * Para escribir la última frase he tenido que escribir la barra \ delante de _ para que lo interpretara como un caracter. 
       Es decir así: **\*\*\_mejor fuera los * y dentro la \_\_\*\***
 
+EDITADO: CREO QUE SÓLO HAY QUE PONER UN ASTERISCO Y UN ESPACIO ANTES DEL TEXTO. SI QUEREMOS HACER UNA LISTA DENTRO DE OTRA LISTA (NESTED LIST) ENTONCES SÍ QUE LE PONEMOS UN ESPACIO ANTES DEL ASTERISCO.
 EDITADO: LOS SIGNOS * Y _ SIRVEN INDISTINTAMENTE PARA NEGRITA O CURSIVA, SI PONEMOS DOS SALDRÁ NEGRITA Y SI PONEMOS UNO CURSIVA
 
 >Ahora intento poner [aqui] (https://rawgit.com/) un enlace a rawgit (que por cierto no se exactamente **QUÉ ES!!**)
@@ -66,6 +67,26 @@ párrafo que queremos resaltar. Hasta aquí es un párrafo.
 Esto ya es otro párrafo sin resaltar.
 
 Se puede incluir en el blockquote todos los párrafos que se quiera; basta con poner el signo > al principio de cada párrafo y en todos los espacios intermedios. Voy a meter en un blockquote los párrafos que tratan cómo incluir un enlace en un texto.
+
+HARDBREAK
+
+Si quiero poner frases cortas  
+que salgan en líneas separadas  
+pero formando un bloque  
+he de escribir la frase  
+y escribir dos espacios  
+antes de darle al intro  
+para escribir la misma frase.
+
+Ahora escribiré lo mismo de antes pero sin poner dos espacios antes del intro:
+
+Si quiero poner frases cortas
+que salgan en líneas separadas
+pero formando un bloque
+he de escribir la frase
+y escribir dos espacios
+antes de darle al intro
+para escribir la misma frase.
 
 
 :rocket: :metal:
