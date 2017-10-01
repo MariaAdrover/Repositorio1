@@ -53,8 +53,7 @@ Al párrafo anterior le he puesto los signos del fenced code block y me los ha p
 
 **NO SE COMO SEPARAR LOS PARRAFOS CON MAS DE UNA LINEA. EN EL EDITOR, ANTES DE ESTA FRASE LE HE METIDO 6 ESPACIOS Y NO ME LO SEPARA NAA!!!**
 
-Este [enlace](https://rawgit.com/MariaAdrover/Repositorio1/master/ejemploHTMLcon%20CSS.html) va a la página que sale al poner en RawGit la dirección del archivo **ejemploHTMLconCSS.html** del repositorio, o sea el código html con css, no se si es esto lo que había que hacer...
->_Crea a ma amb notepad o equivalent un PS, RTF, XML i HTML (si pots amb un CSS que funcioni amb rawgit)._
+
 
 Ahora voy a poner una imagen. Ígual que con los links hay dos sistemas:
 El prpimer sistema es _inline image link_. Pones el signo **!** y entre corchetes [ ] el nombre de la imagen o el texto que quieras (esto no aparecerá en el texto, sólo la imagen), y a continuación, **sin espacios** y entre paréntesis ( ) la url de la imagen.
@@ -128,22 +127,29 @@ function fancyAlert(arg) {
 }
 ```
 
-EJEMPLO EN CSS
+Este [enlace](https://rawgit.com/MariaAdrover/Repositorio1/master/ejemploHTMLcon%20CSS.html) va a la página que sale al poner en RawGit la dirección del archivo **ejemploHTMLconCSS.html** del repositorio, o sea el código html con css, no se si es esto lo que había que hacer...
+>_1. Crea a ma amb notepad o equivalent un PS, RTF, XML i HTML (si pots amb un CSS que funcioni amb rawgit)._
 
-```css
-body {
-    background-color: lightblue;
-}
-h1 {
-    color: white;
-    text-align: center;
-}
-p {
-    font-family: verdana;
-    font-size: 20px;
-} 
+El código del documento es el siguiente:
+
+```html
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial
+</title>
+<style>
+      h1{
+        color: red;
+      }
+    </style>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
 ```
-
   
 
 **TASKS LISTS**
