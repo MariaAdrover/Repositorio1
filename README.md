@@ -44,9 +44,11 @@ Estoy en la master branch. Acabo de modificar el documento y lo he guardado pero
 Ahora grabo esto como siempre, en el master branch con el botón **commit changes**
 
 Ahora voy a poner una imagen. Ígual que con los links hay dos sistemas:
+El prpimer sistema es _inline image link_. Pones el signo **!** y entre corchetes [ ] el nombre de la imagen o el texto que quieras (esto no aparecerá en el texto, sólo la imagen), y a continuación, **sin espacios** y entre paréntesis ( ) la url de la imagen.
 
-![inline image link with ALT text](http://www.shipshapeit.com/Libraries/Shipshape_Images/Server_And_App_Hosting_Diagram.sflb.ashx)
+![server and hosting](http://www.shipshapeit.com/Libraries/Shipshape_Images/Server_And_App_Hosting_Diagram.sflb.ashx)
 
+El segundo sistema es por referencia, _reference image_, igual que con los links.
 [reference image][referencia]
 dkdcwcwjokcmd le añado este texto y tampoco va, me añade una imagen otra vez. Ahora sí funciona. Hay que poner el texto que saldrá
 en el documento resaltado en azul, que enlaza a la imagen igual que con los links, o sea entre corchetes. No hay que poner el signo de exclamacion. Después también entre corchetes, el tag de referencia. LUEGO HAY QUE PONER MÁS TEXTO, PORQUE SI NO, NO VA BIEN, y luego ya,
@@ -61,7 +63,7 @@ BLOCKQUOTES
 > Sirven para hacer resaltar un texto dandole un formato especial a un párrafo. Se consigue añadiendo el signo > al principio del
 párrafo que queremos resaltar. Hasta aquí es un párrafo.
 
-Esto ya es otro párrafo.
+Esto ya es otro párrafo sin resaltar.
 
 
 :rocket: :metal:
