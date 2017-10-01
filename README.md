@@ -113,7 +113,7 @@ function fancyAlert(arg) {
 
 EJEMPLO EN CSS
 
-```
+```css
 body {
     background-color: lightblue;
 }
@@ -126,6 +126,8 @@ p {
     font-size: 20px;
 } 
 ```
+
+ Y PARA ACABAR, LOS EMOJIS. Hay que poner **:** luego el nombre del emoji \(los encontraremos [aquí](https://www.webpagefx.com/tools/emoji-cheat-sheet/)\) y otra vez **:**.
 
 :rocket: :metal:
 
