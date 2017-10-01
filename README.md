@@ -89,6 +89,26 @@ antes de darle al intro
 para escribir la misma frase.
 
 
+## GitHub Flavored Markdown : GFM
+
+GitHub.com utiliza su propia version de Markdown syntax, GFM
+
+##### USERNAME: no sé qué es
+##### ISSUE REFERENCES: tampoco
+
+##### FENCED CODE BLOCKS
+
+Sirve para meter bloques de código en una ventana. Hay que escribir tres **'** al principio y tres al final. 
+Si se pone el nombre del código las palabras reservadas se resaltarán en otro color.
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 :rocket: :metal:
 
 
