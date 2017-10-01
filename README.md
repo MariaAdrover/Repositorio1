@@ -38,6 +38,14 @@ _"... y algunos de los lenguajes de programación que veremos son: [**html**][c�
 Dejo los enlaces enmedio del documento, a ver si funciona o efectivamente ha de estar al final. Bueno voy a añadir otro enlace a los tutoriales a ver si funciona...
 [tutorial de Java][tutoriales]
 
+No funciona, ha de estar al final del documento o como mínimo después de los enlaces.
+
+Ahora voy a ver que pasa si para guardar cambio le doy a __crete a new branch for this commit...__
+Relleno el comentario y dejo el nombre por defecto de la new branch que es MariaAdrover-patch-1
+El botón cambia y pone propose file change
+
+Se puede crear una **new branch** de otra forma?
+
 :rocket: :metal:
 
 
