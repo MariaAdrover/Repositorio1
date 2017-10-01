@@ -21,7 +21,7 @@ Ahora intento poner [aqui] (https://rawgit.com/) un enlace a rawgit (que por cie
 Vale, funciona pero no exactamente como yo quería, quiero que el enlace esté sobre la palabra aquí, bueno ya lo miraré.
 
 Y ahora intento poner un enlace a rawgit, pero a la página que me crea al leer el documento html que tengo en GitHub
-que me abre a través de rawgit (https://rawgit.com/MariaAdrover/Repositorio1/master/ejemploHTML.html)
+que se abre a través de rawgit (https://rawgit.com/MariaAdrover/Repositorio1/master/ejemploHTML.html)
 
 Creo que ya se como poner el enlace [AQUÍ](https://libro.cursohtml5desdecero.com/) de un tutorial que tiene muy buena pinta, muy claro y bien elaborado, y parece que de verdad es desde cero. Esto son **inline links**.
   * Pues sí que funciona, resulta que **NO PUEDES DEJAR ESPACIO ENTRE EL PARÉNTESIS Y EL CORCHETE!!!**, 20 veces prueba y error
