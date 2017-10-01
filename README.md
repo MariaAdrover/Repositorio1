@@ -44,7 +44,7 @@ No va, hay que poner el link tab después.
 Estoy en la master branch. Acabo de modificar el documento y lo he guardado pero creando una new branch. No me lo ha guardado directamente sino que ha tcrado una **pull request**. HHa aparecido la solicitud en la página principal. H añadido un comentario, no sé si como administradora o como usuaria, y luego he intentado aprobar la pull request pero no me ha dejado xk dice que no puedo aprobar una pull request creada por mi... Obviamente, en esta copis no salen los cambios que habia hecho :confused: :laughing:
 Ahora grabo esto como siempre, en el master branch con el botón **commit changes**
 ```
-Al párrafo anterior le he puesto los signos del fenced code block y me los ha puesto en la ventanita. Como no he usado lo de los dos espacios para hacer lo del softbreak, me salen las líneas en hardbreak y por eso me mete una barra de desplazamiento (supongo).
+Al párrafo anterior le he puesto los signos del fenced code block y me los ha puesto en la ventanita. Como lo que hace esta ventanita es mantener la justificación tal cual se la pones, y yo lo he escrito todo seguido, sin ningun intro, pues me lo pone como una frase y por eso me mete una barra de desplazamiento (supongo).
 
 
 
