@@ -38,6 +38,8 @@ _"... y algunos de los lenguajes de programación que veremos son: [**html**][c�
 Dejo los enlaces enmedio del documento, a ver si funciona o efectivamente ha de estar al final. Bueno voy a añadir otro enlace a los tutoriales a ver si funciona...
 [tutorial de Java][tutoriales]
 
+No va, hay que poner el link tab después.
+
 Estoy en la master branch. Acabo de modificar el documento y lo he guardado pero creando una new branch. No me lo ha guardado directamente sino que ha tcrado una **pull request**. HHa aparecido la solicitud en la página principal. H añadido un comentario, no sé si como administradora o como usuaria, y luego he intentado aprobar la pull request pero no me ha dejado xk dice que no puedo aprobar una pull request creada por mi... Obviamente, en esta copis no salen los cambios que habia hecho :confused: :laughing:
 Ahora grabo esto como siempre, en el master branch con el botón **commit changes**
 
@@ -45,10 +47,21 @@ Ahora voy a poner una imagen. Ígual que con los links hay dos sistemas:
 
 ![inline image link with ALT text](http://www.shipshapeit.com/Libraries/Shipshape_Images/Server_And_App_Hosting_Diagram.sflb.ashx)
 
-![reference image][referencia]
+[reference image][referencia]
+dkdcwcwjokcmd le añado este texto y tampoco va, me añade una imagen otra vez. Ahora sí funciona. Hay que poner el texto que saldrá
+en el documento resaltado en azul, que enlaza a la imagen igual que con los links, o sea entre corchetes. No hay que poner el signo de exclamacion. Después también entre corchetes, el tag de referencia. LUEGO HAY QUE PONER MÁS TEXTO, PORQUE SI NO, NO VA BIEN, y luego ya,
+entre corchetes la etiqueta de la referencia, los dos puntos: y el enlace a la imagen.
+
 [referencia]: http://www.shipshapeit.com/Libraries/Shipshape_Images/Server_And_App_Hosting_Diagram.sflb.ashx
 
 pues no se xk no va...
+
+BLOCKQUOTES
+
+> Sirven para hacer resaltar un texto dandole un formato especial a un párrafo. Se consigue añadiendo el signo > al principio del
+párrafo que queremos resaltar. Hasta aquí es un párrafo.
+
+Esto ya es otro párrafo.
 
 
 :rocket: :metal:
