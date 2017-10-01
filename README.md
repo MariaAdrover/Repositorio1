@@ -24,7 +24,7 @@ Vale, funciona pero no exactamente como yo quería, quiero que el enlace esté s
 >Y ahora intento poner un enlace a rawgit, pero a la página que me crea al leer el documento html que tengo en GitHub
 que se abre a través de rawgit (https://rawgit.com/MariaAdrover/Repositorio1/master/ejemploHTML.html)
 >
->Creo que ya se como poner el enlace [AQUÍ](https://libro.cursohtml5desdecero.com/) de un tutorial que tiene muy buena pinta, muy claro y bien elaborado, y parece que de verdad es desde cero. Esto son **inline links**.
+>Creo que ya sé como poner el enlace [AQUÍ](https://libro.cursohtml5desdecero.com/) de un tutorial que tiene muy buena pinta, muy claro y bien elaborado, y parece que de verdad es desde cero. Esto son **inline links**.
   * Pues sí que funciona, resulta que **NO PUEDES DEJAR ESPACIO ENTRE EL PARÉNTESIS Y EL CORCHETE!!!**, 20 veces prueba y error
   * Y veo que para poner lo de las **unordered sublists** tampoco puedes dejar espacios después del asterisco
 >  
@@ -59,7 +59,7 @@ entre corchetes la etiqueta de la referencia, los dos puntos: y el enlace a la i
 
 pues no se xk no va...
 
-BLOCKQUOTES
+**BLOCKQUOTES**
 
 > Sirven para hacer resaltar un texto dandole un formato especial a un párrafo. Se consigue añadiendo el signo > al principio del
 párrafo que queremos resaltar. Hasta aquí es un párrafo.
@@ -68,7 +68,7 @@ Esto ya es otro párrafo sin resaltar.
 
 Se puede incluir en el blockquote todos los párrafos que se quiera; basta con poner el signo > al principio de cada párrafo y en todos los espacios intermedios. Voy a meter en un blockquote los párrafos que tratan cómo incluir un enlace en un texto.
 
-HARDBREAK
+**HARDBREAK**
 
 Si quiero poner frases cortas  
 que salgan en líneas separadas  
@@ -93,10 +93,15 @@ para escribir la misma frase.
 
 GitHub.com utiliza su propia version de Markdown syntax, GFM
 
-##### USERNAME: no sé qué es
-##### ISSUE REFERENCES: tampoco
 
-##### FENCED CODE BLOCKS
+**USERNAME** no sé qué es
+
+
+**ISSUE REFERENCES** tampoco
+
+
+
+**FENCED CODE BLOCKS**
 
 Sirve para meter bloques de código en una ventana. Hay que escribir tres **\`** (accent greu) al principio y tres al final. 
 Si se pone el nombre del código las palabras reservadas se resaltarán en otro color.
@@ -127,7 +132,49 @@ p {
 } 
 ```
 
- Y PARA ACABAR, LOS EMOJIS. Hay que poner **:** luego el nombre del emoji \(los encontraremos [aquí](https://www.webpagefx.com/tools/emoji-cheat-sheet/)\) y otra vez **:**.
+
+
+**TASKS LISTS**
+
+Listas superchulas con un cuadradito marcado o sin marcar
+
+- [x] Crea a ma amb notepad o equivalent un PS, RTF, XML i HTML (si pots amb un CSS que funcioni amb rawgit).
+- [x] Fes una compte a github, edita README.md i puja tots els exemples de fitxers anteriors.
+- [ ] Entrega la url del teu repositori de github.
+
+Se consiguen poniendo un guión **-** un espacio y dos corchetes [x] o [ ] según si la tarea está o no hecha.
+
+
+
+**TABLES**
+
+Si escribo esto:  
+
+LUNES \| MARTES \| MIÉRCOLES  
+----- \| ------ \| ---------  
+Bases de dades \| Entorns de desenvolupament \| FOL  
+Sistemes informàtics \| Programació \| Llenguatge de marques
+
+Saldrá esto:
+
+LUNES | MARTES | MIÉRCOLES
+----- | ------ | ---------
+Bases de dades | Entorns de desenvolupament | FOL
+Sistemes informàtics | Programació | Llenguatge de marques
+
+
+
+**TACHAR TEXTO**
+
+No sé si sólo sirve en GitHub o es un standar Markdown.   
+Ejemplo: **\<del>lo que queremos tachar\</del>**  
+Y quedará así:  
+<del>lo que queremos tachar</del>
+
+
+
+Y PARA ACABAR, LOS **EMOJIS**  
+Hay que poner **:** luego el nombre del emoji \(los encontraremos [aquí](https://www.webpagefx.com/tools/emoji-cheat-sheet/)\) y otra vez **:**.
 
 :rocket: :metal:
 
