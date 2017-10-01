@@ -34,6 +34,10 @@ _"... y algunos de los lenguajes de programación que veremos son: [**html**][c�
 [código]: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=779:diferencias-entre-javascript-y-java-html-css-php-frontera-entre-lenguajes-en-desarrollos-web-cu01105e&catid=78&Itemid=206
 [tutorial]: https://www.aprenderaprogramar.es/index.php?option=com_content&view=article&id=57&Itemid=86
 
+
+Dejo los enlaces enmedio del documento, a ver si funciona o efectivamente ha de estar al final. Bueno voy a añadir otro enlace a los tutoriales a ver si funciona...
+[tutorial de Java][tutoriales]
+
 :rocket: :metal:
 
 
