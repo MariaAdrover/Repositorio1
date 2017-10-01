@@ -87,13 +87,13 @@ he de escribir la frase
 y escribir dos espacios
 antes de darle al intro
 para escribir la misma frase.
-
+  
 
 ## GitHub Flavored Markdown : GFM
 
 GitHub.com utiliza su propia version de Markdown syntax, GFM
 
-
+  
 **USERNAME** no sé qué es
 
 
@@ -132,7 +132,7 @@ p {
 } 
 ```
 
-
+  
 
 **TASKS LISTS**
 
@@ -144,7 +144,7 @@ Listas superchulas con un cuadradito marcado o sin marcar
 
 Se consiguen poniendo un guión **-** un espacio y dos corchetes [x] o [ ] según si la tarea está o no hecha.
 
-
+  
 
 **TABLES**
 
@@ -162,7 +162,7 @@ LUNES | MARTES | MIÉRCOLES
 Bases de dades | Entorns de desenvolupament | FOL
 Sistemes informàtics | Programació | Llenguatge de marques
 
-
+  
 
 **TACHAR TEXTO**
 
@@ -171,12 +171,12 @@ Ejemplo: **\<del>lo que queremos tachar\</del>**
 Y quedará así:  
 <del>lo que queremos tachar</del>
 
-
+  
 
 Y PARA ACABAR, LOS **EMOJIS**  
 Hay que poner **:** luego el nombre del emoji \(los encontraremos [aquí](https://www.webpagefx.com/tools/emoji-cheat-sheet/)\) y otra vez **:**.
 
-:rocket: :metal:
+:rocket: :metal: :smile:
 
 
   
