@@ -98,8 +98,10 @@ GitHub.com utiliza su propia version de Markdown syntax, GFM
 
 ##### FENCED CODE BLOCKS
 
-Sirve para meter bloques de código en una ventana. Hay que escribir tres **'** al principio y tres al final. 
+Sirve para meter bloques de código en una ventana. Hay que escribir tres **\`** (accent greu) al principio y tres al final. 
 Si se pone el nombre del código las palabras reservadas se resaltarán en otro color.
+
+EJEMPLO EN JAVASCRIPT
 
 ```javascript
 function fancyAlert(arg) {
@@ -107,6 +109,22 @@ function fancyAlert(arg) {
     $.facebox({div:'#foo'})
   }
 }
+```
+
+EJEMPLO EN CSS
+
+```
+body {
+    background-color: lightblue;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+} 
 ```
 
 :rocket: :metal:
